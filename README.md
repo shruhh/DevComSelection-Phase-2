@@ -2,7 +2,7 @@
 
 ## A Blog Website
 
-I build a blog website using Django
+I built a blog website using Django
 
 ### Prerequisites
 
